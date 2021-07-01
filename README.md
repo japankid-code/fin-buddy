@@ -1,6 +1,6 @@
 # fin-buddy
 
-finance tracker for the $$$. Link to repo is [here]( https://github.com/japankid-code/fin-buddy).
+finance tracker for the $$$. Link to repo is [here](https://github.com/japankid-code/fin-buddy).
 
 ![MIT badge](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 ![language badge](https://img.shields.io/github/languages/top/japankid-code/fin-buddy?style=for-the-badge)
