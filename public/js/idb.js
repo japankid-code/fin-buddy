@@ -59,7 +59,7 @@ function uploadFunds() {
           const transaction = db.transaction(["new_balance"], "readwrite");
           const financeObjectStore = transaction.objectStore("new_balance");
           financeObjectStore.clear();
-          alert("All saved pizza has been submitted!");
+          alert("All saved transaction has been submitted!");
         })
         .catch((err) => {
           console.log(err);
